@@ -1,2 +1,2 @@
 # reimagined-fortnight
-config files for my kde plasma workstation
+Collection of config files for my kde plasma workstation
